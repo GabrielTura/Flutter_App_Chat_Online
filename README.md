@@ -1,6 +1,8 @@
-# chat_online
+# Chat Online
 
 Criação do App - Chat Online com Flutter e APIs.
+
+APIs utilizadas "Firebase Database /// Firebase Storage".
 
 ## Getting Started
 
